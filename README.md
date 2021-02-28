@@ -19,8 +19,6 @@ devtools::install_github("mdscheuerell/pets")
 
 ## Example
 
-## Example
-
 Here are two simple examples that allow you to express your feelings
 about cats:
 
